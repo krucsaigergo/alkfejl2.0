@@ -1180,11 +1180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Core\\PasswordManager.Core.csproj",
+      "projectUniqueName": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Core\\PasswordManager.Core.csproj",
       "projectName": "PasswordManager.Core",
-      "projectPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Core\\PasswordManager.Core.csproj",
+      "projectPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Core\\PasswordManager.Core.csproj",
       "packagesPath": "C:\\Users\\KRG4BP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Core\\obj\\",
+      "outputPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KRG4BP\\AppData\\Roaming\\NuGet\\NuGet.Config",

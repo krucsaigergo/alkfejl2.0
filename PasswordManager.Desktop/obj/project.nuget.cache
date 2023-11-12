@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elHdst0gwN0WnwSVltOgATEPdeJArpO6nl6m3y2k/kXS1WrxBubP1l4FwgEBW/ljjZyqJDn/8fAFZJFpviMECA==",
+  "dgSpecHash": "v+Zca9EUOD5QYitsUahEUxj2djXnCoTd6/zIoU3zPdvu0CnCjmpnBqb2LDf9EMiXX7cpir/F3zbPtrJ45B9I3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Desktop\\PasswordManager.Desktop.csproj",
+  "projectFilePath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Desktop\\PasswordManager.Desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KRG4BP\\.nuget\\packages\\cryptography.fernet\\1.1.1\\cryptography.fernet.1.1.1.nupkg.sha512",
     "C:\\Users\\KRG4BP\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",

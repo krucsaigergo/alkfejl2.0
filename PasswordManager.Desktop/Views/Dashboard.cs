@@ -45,7 +45,7 @@ namespace PasswordManager.Desktop.Views
         private void addVaultToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AddNewPassword anpw = new AddNewPassword(loggedUser);
-            RefreshDataGridView();
+            anpw.FormClosed += (s, args) => RefreshDataGridView();
             anpw.Show();
 
         }
@@ -123,7 +123,7 @@ namespace PasswordManager.Desktop.Views
                 if (vaultToUpdate != null)
                 {
                     UpdatePassword anpw = new UpdatePassword(loggedUser, vaultToUpdate);
-                    RefreshDataGridView();
+                    anpw.FormClosed += (s, args) => RefreshDataGridView();
                     anpw.Show();
                 }
             }
@@ -131,12 +131,12 @@ namespace PasswordManager.Desktop.Views
             {
                 MessageBox.Show("Please select a row to delete.");
             }
-            
+
         }
 
         public void RefreshDataGridView()
         {
-            
+
             try
             {
                 // Clear existing data
@@ -163,6 +163,11 @@ namespace PasswordManager.Desktop.Views
         }
 
         private void dataGridViewVault_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
 
         }

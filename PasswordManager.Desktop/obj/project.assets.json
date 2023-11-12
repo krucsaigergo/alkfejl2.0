@@ -2209,11 +2209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Desktop\\PasswordManager.Desktop.csproj",
+      "projectUniqueName": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Desktop\\PasswordManager.Desktop.csproj",
       "projectName": "PasswordManager.Desktop",
-      "projectPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Desktop\\PasswordManager.Desktop.csproj",
+      "projectPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Desktop\\PasswordManager.Desktop.csproj",
       "packagesPath": "C:\\Users\\KRG4BP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Desktop\\obj\\",
+      "outputPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KRG4BP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2230,8 +2230,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Core\\PasswordManager.Core.csproj": {
-              "projectPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\passwordManager-main\\PasswordManager.Core\\PasswordManager.Core.csproj"
+            "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Core\\PasswordManager.Core.csproj": {
+              "projectPath": "C:\\Users\\KRG4BP\\Desktop\\alkfejl_project\\2.zh\\alkfejl2.0\\PasswordManager.Core\\PasswordManager.Core.csproj"
             }
           }
         }

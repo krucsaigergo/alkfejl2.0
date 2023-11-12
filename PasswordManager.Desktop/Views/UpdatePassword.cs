@@ -36,19 +36,21 @@ namespace PasswordManager.Desktop.Views
             EncryptedType encryptedResult = encryptedData.Encrypt();
 
             // Update the Vault object
+
             _vaultToUpdate.Username = textBoxUsername.Text;
             _vaultToUpdate.Website = textBoxWebsite.Text;
             _vaultToUpdate.Password = encryptedResult.Secret;
 
             // Save changes to the database
+            _context.Vault.Update(_vaultToUpdate);
             _context.SaveChanges();
 
-            this.Hide();
+            this.Close();
         }
 
         private void button2_click(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Close();
         }
         private void UpdatePassword_Load(object sender, EventArgs e)
         {
